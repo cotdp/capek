@@ -1,0 +1,4 @@
+A simple C++ class that uses Recast+Detour to do navmesh path generation.
+
+CapekNav.vcproj		- builds the DLL wrapper for Windows
+CapekNavTest.cpp	- a simple test application showing its use
